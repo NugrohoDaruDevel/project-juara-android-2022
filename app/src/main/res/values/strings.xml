@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List Programming</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_wikipedia">Wikipedia</string>
+    <string name="juara_android_2022">Juara Android 2022</string>
+    <string name="my_name">Daru Nugroho</string>
+    <string name="share">Share</string>
+    <string name="detail_fragment">Detail Programming</string>
+    <string name="list_fragment">List Progamming Language</string>
+</resources>
